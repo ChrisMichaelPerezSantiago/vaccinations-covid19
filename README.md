@@ -22,20 +22,20 @@
 ```json
 [
   {
-    country: 'United States',
-    iso_code: 'USA',
-    data: [
+    'country: 'United States',
+    'iso_code': 'USA',
+    'data': [
       {
-        date: '2021-03-29',
-        total_vaccinations: 145812835,
-        people_vaccinated: 95015762,
-        people_fully_vaccinated: 52614231,
-        daily_vaccinations_raw: 2350144,
-        daily_vaccinations: 2757586,
-        total_vaccinations_per_hundred: 43.6,
-        people_vaccinated_per_hundred: 28.41,
-        people_fully_vaccinated_per_hundred: 15.73,
-        daily_vaccinations_per_million: 8245
+        'date': '2021-03-29',
+        'total_vaccinations': 145812835,
+        'people_vaccinated': 95015762,
+        'people_fully_vaccinated': 52614231,
+        'daily_vaccinations_raw': 2350144,
+        'daily_vaccinations': 2757586,
+        'total_vaccinations_per_hundred': 43.6,
+        'people_vaccinated_per_hundred': 28.41,
+        'people_fully_vaccinated_per_hundred': 15.73,
+        'daily_vaccinations_per_million': 8245
       }
     ]
   }
@@ -46,14 +46,14 @@
 
 ```json
 {
-  location: 'Chile',
-  data: [
+  'location': 'Chile',
+  'data': [
     {
       '0': '',
-      location: 'Chile',
-      date: '2020-12-24',
-      vaccine: 'Pfizer/BioNTech',
-      total_vaccinations: '420'
+      'location': 'Chile',
+      'date': '2020-12-24',
+      'vaccine': 'Pfizer/BioNTech',
+      'total_vaccinations': '420'
     },
   ]
 }
@@ -64,12 +64,12 @@
 ```json
 {
   '0': '',
-  location: 'Albania',
-  iso_code: 'ALB',
-  vaccines: 'Pfizer/BioNTech',
-  last_observation_date: '2021-03-27',
-  source_name: 'Ministry of Health',
-  source_website: 'https://coronavirus.al/lajme/covid19-ministria-e-shendetesise-1827-te-vaksinuar-3070-testime-550-te-sheruar-425-raste-te-reja-dhe-12-humbje-jete-ne-24-oret-e-fundit/'
+  'location': 'Albania',
+  'iso_code': 'ALB',
+  'vaccines': 'Pfizer/BioNTech',
+  'last_observation_date': '2021-03-27',
+  'source_name': 'Ministry of Health',
+  'source_website: 'https://coronavirus.al/lajme/covid19-ministria-e-shendetesise-1827-te-vaksinuar-3070-testime-550-te-sheruar-425-raste-te-reja-dhe-12-humbje-jete-ne-24-oret-e-fundit/'
 }
 ```
 
@@ -77,20 +77,20 @@
 
 ```json
 {
-  date: '2021-01-12',
-  location: 'Alabama',
-  total_vaccinations: '78134.0',
-  total_distributed: '377025.0',
-  people_vaccinated: '70861.0',
-  people_fully_vaccinated_per_hundred: '0.15',
-  total_vaccinations_per_hundred: '1.59',
-  people_fully_vaccinated: '7270.0',
-  people_vaccinated_per_hundred: '1.45',
-  distributed_per_hundred: '7.69',
-  daily_vaccinations_raw: '',
-  daily_vaccinations: '',
-  daily_vaccinations_per_million: '',
-  share_doses_used: '0.207'
+  'date': '2021-01-12',
+  'location': 'Alabama',
+  'total_vaccinations': '78134.0',
+  'total_distributed': '377025.0',
+  'people_vaccinated': '70861.0',
+  'people_fully_vaccinated_per_hundred': '0.15',
+  'total_vaccinations_per_hundred': '1.59',
+  'people_fully_vaccinated': '7270.0',
+  'people_vaccinated_per_hundred': '1.45',
+  'distributed_per_hundred': '7.69',
+  'daily_vaccinations_raw': '',
+  'daily_vaccinations': '',
+  'daily_vaccinations_per_million': '',
+  'share_doses_used': '0.207'
 }
 ```
 
