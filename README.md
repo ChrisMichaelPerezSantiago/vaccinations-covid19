@@ -17,7 +17,7 @@
 ## Global vaccination data
 
 
-**METHOD** vaccinations()
+## vaccinations()
 
 ```json
 [
@@ -42,7 +42,7 @@
 ]
 ```
 
-**METHOD** vaccinationsByManufacturer()
+## vaccinationsByManufacturer()
 
 ```json
 {
@@ -59,7 +59,7 @@
 }
 ```
 
-**METHOD** locations()
+## locations()
 
 ```json
 {
@@ -73,7 +73,7 @@
 }
 ```
 
-**METHOD** usaVaccinations()
+## usaVaccinations()
 
 ```json
 {
